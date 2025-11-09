@@ -1,5 +1,6 @@
 # GitHub Profile Summary: MarcoBetti1
-Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)
+Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)  
+
 Generated on: 2025-11-09
 Profile: https://github.com/MarcoBetti1
 
