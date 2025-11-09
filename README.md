@@ -5,14 +5,7 @@ Profile: https://github.com/MarcoBetti1
 
 Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)
 
-## Spotlight
-Marco Betti's GitHub profile demonstrates a strong proficiency in Python, which constitutes 71% of his contributions, alongside notable work in Jupyter Notebook and JavaScript. His projects primarily focus on documentation automation, web automation, and entity resolution, with tools like GenDoc facilitating customizable documentation generation for developers. The GHProfScanner enhances GitHub activity analysis through automated report generation, while the Entity-Resolution project addresses critical identity verification challenges in various sectors. Additionally, his work on benchmarking large language models, such as in the LLM-TESTING and llmchess repositories, showcases a commitment to advancing research methodologies in natural language processing and game theory.
-
-## Public Repositories
-### MarcoBetti1
-The repository showcases the GitHub profile of Marco Betti, highlighting his expertise in Python with contributions to projects focused on documentation automation, web automation, and entity resolution. Notable projects include GenDoc, which automates documentation generation, and weBot, an experimental social media interaction bot, both aimed at developers and data scientists seeking to enhance their workflows. Repository: https://github.com/MarcoBetti1/MarcoBetti1
-
-
+## Work
 ### GenDoc
 GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, progressing from detailed method descriptions to high-level project overviews through multi-agent prompt orchestration. Targeted at developers and technical teams, it allows for customizable documentation generation using either a mock language model or the OpenAI API, producing structured outputs alongside supporting artifacts. Repository: https://github.com/MarcoBetti1/GenDoc
 
