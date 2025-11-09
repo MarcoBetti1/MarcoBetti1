@@ -6,6 +6,7 @@ Profile: https://github.com/MarcoBetti1
 Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)
 
 ## Work
+I like to use AI to build projects from abstracted ideas. Most of the code is AI generated, and a lot of the documenation also (with recent projects).
 ### GenDoc
 GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, progressing from detailed method descriptions to high-level project overviews through multi-agent prompt orchestration. Targeted at developers and technical teams, it allows for customizable documentation generation using either a mock language model or the OpenAI API, producing structured outputs alongside supporting artifacts. Repository: https://github.com/MarcoBetti1/GenDoc
 
