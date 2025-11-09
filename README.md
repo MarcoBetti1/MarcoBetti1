@@ -13,7 +13,7 @@ GenDoc is a Python-based tool designed to automatically generate layered documen
 
 
 ### weBot
-The `weBot](https://github.com/MarcoBetti1/weBot) repository aims to create a web bot capable of simulating human interactions on social media platforms, with an eventual goal of developing more autonomous behaviors. Currently, the project is in an experimental phase, utilizing Python and Selenium for web automation, and is intended for developers interested in bot creation and social media interaction, although it is noted that the bot may not function as intended and is against the terms of service of the platforms it targets.
+The [weBot](https://github.com/MarcoBetti1/weBot) repository aims to create a web bot capable of simulating human interactions on social media platforms, with an eventual goal of developing more autonomous behaviors. Currently, the project is in an experimental phase, utilizing Python and Selenium for web automation, and is intended for developers interested in bot creation and social media interaction, although it is noted that the bot may not function as intended and is against the terms of service of the platforms it targets.
 
 
 ### LLM-TESTING
