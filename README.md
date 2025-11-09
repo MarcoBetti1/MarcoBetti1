@@ -1,27 +1,34 @@
 # GitHub Profile Summary: MarcoBetti1
-Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)  
 
 Generated on: 2025-11-09
 Profile: https://github.com/MarcoBetti1
 
-## Spotlight
-MarcoBetti1 demonstrates strong proficiency in Python, with significant contributions to projects focused on documentation automation, web automation, and entity resolution. His repositories, such as GenDoc and Entity-Resolution, cater to developers and data scientists, providing tools for streamlining documentation processes and implementing data consistency techniques. Additionally, projects like LLM-TESTING and llmchess explore the evaluation of large language models, offering structured methodologies for performance assessment. 
+Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1/GHProfScanner)
 
-## Work
+## Spotlight
+Marco Betti's GitHub profile demonstrates a strong proficiency in Python, which constitutes 71% of his contributions, alongside notable work in Jupyter Notebook and JavaScript. His projects primarily focus on documentation automation, web automation, and entity resolution, with tools like GenDoc facilitating customizable documentation generation for developers. The GHProfScanner enhances GitHub activity analysis through automated report generation, while the Entity-Resolution project addresses critical identity verification challenges in various sectors. Additionally, his work on benchmarking large language models, such as in the LLM-TESTING and llmchess repositories, showcases a commitment to advancing research methodologies in natural language processing and game theory.
+
+## Public Repositories
+### MarcoBetti1
+The repository showcases the GitHub profile of Marco Betti, highlighting his expertise in Python with contributions to projects focused on documentation automation, web automation, and entity resolution. Notable projects include GenDoc, which automates documentation generation, and weBot, an experimental social media interaction bot, both aimed at developers and data scientists seeking to enhance their workflows. Repository: https://github.com/MarcoBetti1/MarcoBetti1
+
+
 ### GenDoc
-GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, utilizing multi-agent prompt orchestration to create outputs ranging from detailed method descriptions to high-level project overviews. It targets developers looking to streamline documentation processes, offering features such as integration with existing Markdown files and support for different LLM providers, including a mock option for testing without external credentials. https://github.com/MarcoBetti1/GenDoc 
+GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, progressing from detailed method descriptions to high-level project overviews through multi-agent prompt orchestration. Targeted at developers and technical teams, it allows for customizable documentation generation using either a mock language model or the OpenAI API, producing structured outputs alongside supporting artifacts. Repository: https://github.com/MarcoBetti1/GenDoc
+
+
+### GHProfScanner
+The GHProfScanner is a command-line tool that analyzes GitHub profiles by scraping public repository metadata and contribution history, generating a markdown report using an LLM, primarily OpenAI. It is designed for developers and data analysts who need to summarize GitHub activity and documentation, with configurable options for focusing on specific repositories or documentation files. Repository: https://github.com/MarcoBetti1/GHProfScanner
 
 
 ### weBot
-The [weBot](https://github.com/MarcoBetti1/weBot) repository aims to create a web bot capable of simulating human interactions on social media platforms, with an eventual goal of developing more autonomous behaviors. Currently, the project is in an experimental phase, utilizing Python and Selenium for web automation, and is intended for developers interested in bot creation and social media interaction, although it is noted that the bot may not function as intended and is against the terms of service of the platforms it targets.
+The `weBot` repository is a Python-based project aimed at developing a web bot capable of simulating human-like interactions on social media platforms, although it is currently non-functional and not deployed due to terms of service violations. The project is in its early stages, focusing on integrating libraries like Selenium for web automation and implementing basic decision-making capabilities, with the long-term goal of creating a more autonomous bot. Repository: https://github.com/MarcoBetti1/weBot
 
 
 ### LLM-TESTING
-The [LLM-TESTING](https://github.com/MarcoBetti1/LLM-TESTING) repository organizes various benchmark ideas for evaluating large language models (LLMs), focusing on structured testing methodologies such as chess gameplay and attention mechanisms. It provides tools for capturing model performance metrics and allows users to manipulate variables like opponent types and prompt styles, making it suitable for researchers and developers interested in LLM evaluation and optimization.
+The LLM-TESTING repository organizes various benchmark ideas for evaluating large language models (LLMs), focusing on structured testing methodologies such as chess gameplay and token complexity assessments. It targets developers and researchers interested in benchmarking LLM performance through customizable scenarios and detailed telemetry for analysis. Repository: https://github.com/MarcoBetti1/LLM-TESTING
 
 
 ### Entity-Resolution
-The [Entity-Resolution](https://github.com/MarcoBetti1/Entity-Resolution) repository serves as a prototype for linking records to real-world identities, addressing challenges in data consistency and verification, particularly when definitive identifiers are absent or inconsistent. It targets developers and data scientists working in fields such as finance and data governance, providing a framework for implementing entity resolution techniques, including normalization and fuzzy matching.
-
-
+The Entity-Resolution repository serves as a prototype for linking records to real-world identities, addressing challenges in accurately associating data when definitive identifiers are absent or inconsistent. It is particularly relevant for financial institutions and other sectors that require reliable verification of identities to comply with regulations and prevent fraud. Repository: https://github.com/MarcoBetti1/Entity-Resolution
 
