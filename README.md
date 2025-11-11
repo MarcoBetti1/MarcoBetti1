@@ -8,7 +8,7 @@ Auto Generated profile readme via [GHProfScanner](https://github.com/MarcoBetti1
 ## Work
 I like to use AI to build projects from abstracted ideas. Most of the code is AI generated, and a lot of the documenation also (with recent projects).
 ### GenDoc
-GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, progressing from detailed method descriptions to high-level project overviews through multi-agent prompt orchestration. Targeted at developers and technical teams, it allows for customizable documentation generation using either a mock language model or the OpenAI API, producing structured outputs alongside supporting artifacts. Repository: https://github.com/MarcoBetti1/GenDoc
+GenDoc is a Python-based tool designed to automatically generate layered documentation from existing codebases, progressing from detailed method descriptions to high-level project overviews through multi-agent prompt orchestration. Repository: https://github.com/MarcoBetti1/GenDoc
 
 
 ### GHProfScanner
@@ -20,9 +20,9 @@ The `weBot` repository is a Python-based project aimed at developing a web bot c
 
 
 ### LLM-TESTING
-The LLM-TESTING repository organizes various benchmark ideas for evaluating large language models (LLMs), focusing on structured testing methodologies such as chess gameplay and token complexity assessments. It targets developers and researchers interested in benchmarking LLM performance through customizable scenarios and detailed telemetry for analysis. Repository: https://github.com/MarcoBetti1/LLM-TESTING
+The LLM-TESTING repository organizes various benchmark ideas for evaluating large language models (LLMs), focusing on structured testing methodologies such as chess gameplay and token complexity assessments. Repository: https://github.com/MarcoBetti1/LLM-TESTING
 
 
 ### Entity-Resolution
-The Entity-Resolution repository serves as a prototype for linking records to real-world identities, addressing challenges in accurately associating data when definitive identifiers are absent or inconsistent. It is particularly relevant for financial institutions and other sectors that require reliable verification of identities to comply with regulations and prevent fraud. Repository: https://github.com/MarcoBetti1/Entity-Resolution
+The Entity-Resolution repository serves as a prototype for linking records to real-world identities, addressing challenges in accurately associating data when definitive identifiers are absent or inconsistent. Repository: https://github.com/MarcoBetti1/Entity-Resolution
 
